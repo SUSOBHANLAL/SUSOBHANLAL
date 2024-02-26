@@ -6,8 +6,7 @@
 <h4 align="center">- 🌱 I’m currently learning **Nextjs**</h4>
 <!-- <img align="left" height="151" src="https://i.imgflip.com/65efzo.gif"  />
 <img align="right" height="151" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/7o5L08ajhePjHM5jsK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Jadu-AR-gameplay-jadu-ar-7o5L08ajhePjHM5jsK">via GIPHY</a></p>
-</div>
+<img height ="151" src="https://giphy.com/embed/7o5L08ajhePjHM5jsK">
 
 ###
 
