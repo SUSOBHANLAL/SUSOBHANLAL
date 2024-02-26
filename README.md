@@ -56,18 +56,12 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=career-susobhanlal&show_icons=true&locale=en" alt="career-susobhanlal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=career-susobhanlal&" alt="career-susobhanlal" /></p>
-<p><img src="https://streak-stats.demolab.com?user=career-susobhanlal&" " height="220" alt="streak graph"  /></p>
-
 <h3 align="left">🔥   My Stats :</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=career-susobhanlal&" alt="career-susobhanlal" /></p>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=career-susobhanlal&" " height="220" alt="streak graph"  />
-</div>
 
-###
+
+
 
 
