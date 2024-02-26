@@ -6,7 +6,7 @@
 <h4 align="center">- 🌱 I’m currently learning **Nextjs**</h4>
 <!-- <img align="left" height="151" src="https://i.imgflip.com/65efzo.gif"  />
 <img align="right" height="151" src="https://i.imgflip.com/65efzo.gif"  /> -->
-<img height ="151" src="https://giphy.com/embed/7o5L08ajhePjHM5jsK">
+
 
 ###
 
