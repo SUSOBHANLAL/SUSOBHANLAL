@@ -55,9 +55,9 @@
 ###
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=career-susobhanlal&show_icons=true&locale=en" alt="career-susobhanlal" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=career-susobhanlal&show_icons=true&locale=en" alt="career-susobhanlal" /></p>
 <h3 align="left">🔥   My Stats :</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=career-susobhanlal&" alt="career-susobhanlal" /></p>
+<p align = "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=career-susobhanlal&" alt="career-susobhanlal" /></p>
 
 
 
